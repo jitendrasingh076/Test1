@@ -25,4 +25,3 @@ steps:
   inputs:
     artifactName: dist
     pathtoPublish: 'dist'
-	
